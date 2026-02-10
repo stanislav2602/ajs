@@ -1,0 +1,19 @@
+{
+  "name": "@stanislav2602/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/stanislav2602/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/stanislav2602/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislav2602/ajs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
