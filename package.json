@@ -1,6 +1,6 @@
 {
   "name": "@stanislav2602/ajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "homepage": "https://github.com/stanislav2602/ajs#readme",
   "bugs": {
@@ -14,8 +14,8 @@
   "author": "",
   "main": "dist/index.js",
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com/",
-  "access": "public"
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
   },
   "scripts": {
     "build": "webpack --mode production"
