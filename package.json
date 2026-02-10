@@ -14,7 +14,8 @@
   "author": "",
   "main": "dist/index.js",
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com/"
+  "registry":"https://npm.pkg.github.com/",
+  "access": "public"
   },
   "scripts": {
     "build": "webpack --mode production"
